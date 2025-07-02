@@ -34,3 +34,10 @@ Install using pip:
 
 ```bash
 pip install -r requirements.txt
+```
+## **📷 Output**
+
+You will see a graph similar to this:
+![Sample Plot](graph.png)
+
+
