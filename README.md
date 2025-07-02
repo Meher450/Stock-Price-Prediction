@@ -21,14 +21,6 @@ The historical stock data is pulled using [`yfinance`](https://pypi.org/project/
    - Train an LSTM model
    - Plot actual vs predicted prices
 
-## 📦 Requirements
-
-Install using pip:
-
-```bash
-pip install -r requirements.txt
-
-
 ## **📷 Output**
 
 You will see a graph similar to this:
@@ -36,5 +28,9 @@ You will see a graph similar to this:
 
 ![Sample Plot](graph.png)
 
+## 📦 Requirements
 
+Install using pip:
 
+```bash
+pip install -r requirements.txt
