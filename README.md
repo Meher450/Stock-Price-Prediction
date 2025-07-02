@@ -29,7 +29,7 @@ Install using pip:
 pip install -r requirements.txt
 
 
-## 📷 Output
+## **📷 Output**
 
 You will see a graph similar to this:
 
